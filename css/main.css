@@ -106,7 +106,7 @@ body{
 .sitenav__link:hover{
   color: #FA5959;
 }
-.nav-btn {
+.sitenav__btn--nav-btn {
   margin-left: 24px;
   padding:12px  34px;
   display: inline-block;
@@ -123,7 +123,7 @@ body{
   color: #FFFFFF;
   border: 2px solid transparent;
 }
-.nav-btn:hover{
+.sitenav__btn--nav-btn:hover{
   border: 2px solid #FA5959;
   background-color: #fff;
   color: #FA5959;
